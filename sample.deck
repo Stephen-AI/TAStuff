@@ -1,0 +1,11 @@
+10
+START        0
+SWAP        0
+START        0
+FORWARD        10
+BACKWARD        4
+FORWARD        3
+FORWARD        3
+SORRY        0
+FORWARD        7
+BACKWARD        1

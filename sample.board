@@ -1,0 +1,25 @@
+SQUARES        60
+1        BEGIN        GREEN
+2        HOMESQ        GREEN
+4        END        GREEN
+4        STARTSQ        GREEN
+9        BEGIN        GREEN
+13        END        GREEN
+16        BEGIN        RED
+17        HOMESQ        RED        
+19        END        RED
+19        STARTSQ        RED
+24        BEGIN        RED
+28        END        RED
+31        BEGIN        BLUE
+32        HOMESQ        BLUE
+34        END        BLUE
+34        STARTSQ        BLUE
+39        BEGIN        BLUE
+43        END        BLUE
+46        BEGIN        YELLOW
+47        HOMESQ        YELLOW
+49        END        YELLOW
+49        STARTSQ        YELLOW
+54        BEGIN        YELLOW
+58        END        YELLOW
